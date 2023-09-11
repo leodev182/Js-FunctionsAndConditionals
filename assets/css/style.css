@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: xx-large;
+}
+
+.container div {
+  height: 50px;
+  width: 500px;
+  text-align: center;
+}
